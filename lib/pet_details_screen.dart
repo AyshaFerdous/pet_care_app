@@ -15,7 +15,7 @@ class PetDetailsScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Pet Details'),
-        backgroundColor: Colors.purple[50],
+        backgroundColor: Color(0xFFA5CDDA),
       ),
       body: Column(
         children: [

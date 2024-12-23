@@ -1,13 +1,16 @@
 # pet_care_app
 
-A new Flutter project.
+# **A Simple Pet Care App.**
+
+![screenshot](assets/images/ss_pet.png)
+![screenshot](assets/images/ss_pet2.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# **Description About My App::**
 
-A few resources to get you started if this is your first Flutter project:
-
+This is a simple PetCare App, similar to a note-taking app,
+where all details about pets are saved according to their vaccination dates.
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 

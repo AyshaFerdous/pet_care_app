@@ -106,6 +106,7 @@ class _AddEditPetScreenState extends State<AddEditPetScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.pet == null ? 'Add New Pet' : 'Edit Pet'),
+        backgroundColor: Color(0xFFA5CDDA),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),

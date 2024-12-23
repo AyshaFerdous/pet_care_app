@@ -41,8 +41,7 @@ class _PetListScreenState extends State<PetListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(
-          'Pet Care Organizer',
+        title: Text('Pet Care Organizer',
           style: GoogleFonts.cabin( // Replace 'lato' with your preferred font
             textStyle: TextStyle(
               color: Colors.black, // Customize the color if needed
@@ -50,7 +49,8 @@ class _PetListScreenState extends State<PetListScreen> {
             ),
           ),
         ),
-        backgroundColor: Colors.purple[50],
+        backgroundColor: Color(0xFFA5CDDA),
+
         iconTheme: IconThemeData(color: Colors.black), // Ensures icons match the title color
       ),
 
